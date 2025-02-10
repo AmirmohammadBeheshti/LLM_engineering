@@ -3,3 +3,4 @@ ollama
 jupyterlab
 beautifulsoup4
 requests
+gradio
