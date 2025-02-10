@@ -14,3 +14,11 @@ dist/
 *.egg
 pip-wheel-metadata/
 .env
+
+# ignore gradio private files
+.gradio
+/.gradio
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
